@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/social-buddy-react-assignment/static/css/main.b4039bff.css",
-    "main.js": "/social-buddy-react-assignment/static/js/main.f05a4a73.js",
-    "static/js/453.64512fd7.chunk.js": "/social-buddy-react-assignment/static/js/453.64512fd7.chunk.js",
+    "main.js": "/social-buddy-react-assignment/static/js/main.d4bbe327.js",
+    "static/js/453.68d2f560.chunk.js": "/social-buddy-react-assignment/static/js/453.68d2f560.chunk.js",
     "index.html": "/social-buddy-react-assignment/index.html",
     "main.b4039bff.css.map": "/social-buddy-react-assignment/static/css/main.b4039bff.css.map",
-    "main.f05a4a73.js.map": "/social-buddy-react-assignment/static/js/main.f05a4a73.js.map",
-    "453.64512fd7.chunk.js.map": "/social-buddy-react-assignment/static/js/453.64512fd7.chunk.js.map"
+    "main.d4bbe327.js.map": "/social-buddy-react-assignment/static/js/main.d4bbe327.js.map",
+    "453.68d2f560.chunk.js.map": "/social-buddy-react-assignment/static/js/453.68d2f560.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4039bff.css",
-    "static/js/main.f05a4a73.js"
+    "static/js/main.d4bbe327.js"
   ]
 }
